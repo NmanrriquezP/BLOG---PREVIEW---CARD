@@ -1,5 +1,5 @@
 # Frontend Mentor - Blog preview card
-## Nicolle
+## Nicole
 
 ![Design preview for the Blog preview card coding challenge](./preview.jpg)
 
